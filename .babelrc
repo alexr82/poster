@@ -1,0 +1,10 @@
+{
+  "presets": [
+    ["@babel/preset-env", {
+      "targets":[
+        "latest 5 versions"
+      ]
+    }
+    ]
+  ]
+}
